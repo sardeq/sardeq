@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sardeq&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sardeq&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
     </td>
     <td align="center">
       <img src="https://streak-stats.demolab.com?user=sardeq&theme=radical" />
@@ -19,7 +19,3 @@
   </tr>
 </table>
 
-<!-- Optional: full commit count card -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sardeq&include_all_commits=true&count_private=true&show_icons=true&theme=radical" />
-</p>
