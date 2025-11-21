@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center" class="heading-element" dir="auto">👋 Hello! I'm Sadeq.</h2>
 
 <!--
 **sardeq/sardeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
