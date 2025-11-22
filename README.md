@@ -11,9 +11,6 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardeq&layout=compact&theme=radical" />
-    </td>
-    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardeq&theme=radical&layout=compact&langs_count=10&card_width=500" />
     </td>
   </tr>
