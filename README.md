@@ -13,6 +13,9 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sardeq&theme=radical&layout=compact&langs_count=10&card_width=500" />
     </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sardeq&theme=radical" />
+    </td>
   </tr>
 </table>
 
