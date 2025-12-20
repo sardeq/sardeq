@@ -14,8 +14,5 @@
     <td align="center" width="33%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sardeq&theme=radical" alt="sardeq productive time"/>
     </td>
-    <td align="center" width="33%">
-      <img src="https://github-profile-trophy.vercel.app/?username=sardeq&theme=radical&no-frame=true&row=1&column=4&margin-w=4" alt="sardeq trophies"/>
-    </td>
   </tr>
 </table>
