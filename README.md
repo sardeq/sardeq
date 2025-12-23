@@ -4,7 +4,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=sardeq&include_all_commits=true&show_icons=true&theme=radical" alt="sardeq stats"/>
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=sardeq&theme=radical" alt="sardeq streak"/>
+      <img src="https://streak-stats.demolab.com/?user=sardeq&theme=radical" alt="sardeq streak"/>
     </td>
   </tr>
   <tr>
