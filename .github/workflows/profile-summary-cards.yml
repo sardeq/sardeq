@@ -19,5 +19,3 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
-          # This generates the dark navy theme you want
-          THEME: tokyonight
