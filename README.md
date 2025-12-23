@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=sardeq&show_icons=true&theme=tokyonight&hide_border=true" alt="sardeq stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=sardeq&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true" alt="sardeq stats" />
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=sardeq&theme=tokyonight&hide_border=true" alt="sardeq streak" />
