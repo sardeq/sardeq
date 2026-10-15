@@ -15,13 +15,10 @@
 public sealed class Sadeq : Developer
 {
     public string   Role      => "Full-stack developer";
-    public string   Studying  => "B.Sc. Computer Science @ Al Hussein Technical University (2027)";
+    public string   Studying  => "B.Sc. Computer Science @ Al Hussein Technical University";
     public string   Based     => "Amman, Jordan";
     public string[] Speaks    => ["Arabic", "English"];
-
-    public string[] Building  => ["Zyro Browser v2", "AI document digitization (grad project)", "Matab"];
-    public string[] Community => ["ACM — Event Manager", "IEEE — IEEEXtreme Ambassador"];
-    public string   AfterDark => "Linux internals, browser engines, modded Minecraft servers";
+    public string[] Building  => ["Zyro Browser v2", "AI document digitization (grad project)"];
 }
 ```
 
