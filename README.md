@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://sardeq.github.io/Portfolio/"><img src="https://img.shields.io/badge/portfolio-sardeq.github.io-7aa2f7?style=flat-square&labelColor=1a1b26" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/sadeqodeh/"><img src="https://img.shields.io/badge/linkedin-sadeqodeh-bb9af7?style=flat-square&labelColor=1a1b26" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sadeq-odeh/"><img src="https://img.shields.io/badge/linkedin-sadeqodeh-bb9af7?style=flat-square&labelColor=1a1b26" alt="LinkedIn" /></a>
 
 </div>
 
