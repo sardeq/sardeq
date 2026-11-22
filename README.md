@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/sadeq-odeh/"><img align="right" src="https://skillicons.dev/icons?i=linkedin" height="26" alt="LinkedIn" /></a>
 <b>Hey! I'm Sadeq 👋</b><br />
-<sub>Full-stack developer · Software Engineer · Amman, Jordan · <a href="https://sardeq.github.io/">portfolio</a></sub>
+<sub>Full-stack developer · System Engineer · Amman, Jordan · <a href="https://sardeq.github.io/">portfolio</a></sub>
 
 </td>
 </tr>
