@@ -12,10 +12,10 @@
 <td>
 
 <a href="https://github.com/sardeq/riff"><img src="https://raw.githubusercontent.com/sardeq/riff/main/assets/screenshot.png" width="49%" alt="Riff — Linux soundboard with a virtual microphone" title="Riff" /></a>
-<a href="https://github.com/sardeq/Zyro-Browser"><img src="assets/previews/zyro.png" width="49%" alt="Zyro — lightweight desktop browser in C++" title="Zyro Browser" /></a>
-<a href="https://github.com/sardeq/riff"><img src="assets/previews/riff.png" width="49%" alt="Riff — A fast soundboard with virtual microphone routing in Rust" title="Riff" /></a>
-<a href="https://github.com/sardeq/NewFace"><img src="assets/previews/matab.png" width="49%" alt="Matab — civic infrastructure reporting and crowdfunding" title="Matab · مطب" /></a>
-<a href="/"><img src="assets/previews/dental.png" width="49%" title="Dental Website" /></a>
+<a href="https://github.com/sardeq/Zyro-Browser"><img src="assets/previews/zyro.png" width="49%"/></a>
+<a href="https://github.com/sardeq/riff"><img src="assets/previews/riff.png" width="49%"/></a>
+<a href="https://github.com/sardeq/NewFace"><img src="assets/previews/matab.png" width="49%" /></a>
+<a href="/"><img src="assets/previews/dental.png" width="49%" /></a>
 
 </td>
 </tr>
